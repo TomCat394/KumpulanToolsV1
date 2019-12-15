@@ -13,8 +13,7 @@ sleep 1
   echo "#1 install bahan bahan" | lolcat
   echo "#2 install tools dark fb" | lolcat
   echo "#3 install tools rusmana" | lolcat
-  echo "#4 install tools RED_HAAK" | lolcat
-  echo "#5 install tools B4J1N64Nv5" | lolcat
+  echo "#4 install tools RED_HAWK" | lolcat
   echo "#6 install username & password dark fb" | lolcat
   echo "#0 exit" | lolcat
 echo "╔════════════════════════════╗​" | lolcat
